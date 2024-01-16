@@ -3,7 +3,7 @@
 use GuzzleHttp\Client;
 use GuzzleHttp\Exception\RequestException;
 
-// Подключите автозагрузчик Composer, если он используется
+// Автозагрузчик Composer, если он используется
 require_once __DIR__ . "/../vendor/autoload.php";
 
 $openai_api_key = ''; // Тут мой API ключ, который я вам не покажу ;)
